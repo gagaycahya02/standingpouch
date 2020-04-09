@@ -4718,13 +4718,13 @@ Imaging with any questions regarding Web fonts:  http://webfonts.fonts.com
 
     
         
-            <title>HOME | Mysite</title>
+            <title>Jagoan Standing Pouch Custom | Jasa pembuatan standing pouch custom </title>
         
-            <link rel="canonical" href="https://gagaycahya02.wixsite.com/mysite">
+            <link rel="canonical" href="https://standing-pouch.herokuapp.com/">
         
             <meta property="og:title" content="HOME | Mysite">
         
-            <meta property="og:url" content="https://gagaycahya02.wixsite.com/mysite">
+            <meta property="og:url" content="https://standing-pouch.herokuapp.com/">
         
             <meta property="og:site_name" content="Mysite">
         
