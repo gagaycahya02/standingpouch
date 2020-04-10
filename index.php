@@ -213,8 +213,33 @@ A consultation with your dentist will help you find the right dental practice an
         }
     }
 </script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-162947463-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-162947463-1');
+</script>
+
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T3JK2TV');</script>
+<!-- End Google Tag Manager -->
+
+
     </head>
 <body class=" txlive">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T3JK2TV"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
 
 
 
@@ -1895,29 +1920,7 @@ A consultation with your dentist will help you find the right dental practice an
 
 
 </script>
-<div class="powered-by-container active landing">
-    <div class="powered-by-left-section">
-        <div class="info-created">
-            <span>This website is created with</span>
-            <a href="https://www.ucraft.com/" target="_blank" rel="noopener noreferrer nofollow">
-                <img src="./Free Dentist Website Template - Garsacahyas_files/logo_alt.svg" alt="Website Builder - Ucraft">
-            </a>
-        </div>
-        <div class="line-divider"></div>
-        <div onclick="openIframe()" class="created-btn">
-                            i want a website like this
-                    </div>
-    </div>
-    <div class="powered-by-right-section">
-        <div id="opened-info" class="opened-info">
-            <div onclick="toggleInfo()" class="round-arrow">
-                <i class="uci-arrow-3"></i>
-            </div>
-            <div class="line-divider"></div>
-            <span>Ucraft is a free website builder that provides web designers, marketers and business owners with a set of web design tools to start their next awesome project in minutes. No coding or designer skills needed. Go to <a href="https://www.ucraft.com/" target="_blank" rel="noopener noreferrer nofollow">Ucraft</a></span>
-        </div>
-    </div>
-</div>
+
             
 <!-- Auth token -->
 <script type="text/javascript">
